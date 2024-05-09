@@ -1,0 +1,2 @@
+# EcommerceSD
+电商场景的stable diffusion模型，包括电商大模型，lora组件和controlnet等一系列应用
