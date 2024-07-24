@@ -1,0 +1,1 @@
+sh "/home/image_team/image_team_docker_home/lgd/EcommerceSD/ecom/dit/hydit/train_controlnet.sh"

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: index-kits
+Version: 0.3.5
+Summary: An index kits for streaming reading arrow data.
+Author: jarvizhang
+Author-email: jarvizhang@tencent.com
+Requires-Python: >=3.8.12

@@ -1,0 +1,5 @@
+src:
+    - /home/image_team/image_team_docker_home/lgd/EcommerceSD/data/dataset/porcelain/jsons/porcelain.json
+base_size: 1024
+reso_step: 64
+min_size: 1024

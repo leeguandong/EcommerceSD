@@ -1,0 +1,15 @@
+source:
+  - /home/image_team/image_team_docker_home/lgd/EcommerceSD/data/dataset/porcelain/arrows/00000.arrow
+
+filter:
+  column:
+    - name: height
+      type: int
+      action: ge
+      target: 1024
+      default: 1024
+    - name: width
+      type: int
+      action: ge
+      target: 1024
+      default: 1024

@@ -1,0 +1,3 @@
+gradio==3.45.2
+controlnet_aux==0.0.8
+omegaconf

@@ -1,0 +1,4 @@
+pillow>=9.3.0
+tqdm>=4.60.0
+pyarrow>=10.0.1
+torch>=1.9

@@ -1,0 +1,11 @@
+DiT:
+  hunyuandit:
+    model_file: ""
+    hf_model_file: ""
+    distillation_model_file: ""
+    hf_distillation_model_file: ""
+    lora_model_file: ""
+    controlnet_model_file: ""
+    
+
+
