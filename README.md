@@ -1,5 +1,5 @@
 # EcommerceSD
-### 致力于电商场景的图像生成，主要有两个开源项目，一个是建筑领域的图像生成，一个电商领域的图像生成
+### 致力于电商场景的图像生成
 
 ### 技术
 1.https://mp.weixin.qq.com/s/Q15jWa2kQV0UNOX_RtyUEw
